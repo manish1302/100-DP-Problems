@@ -13,4 +13,5 @@ These are all the 100 DP problem's I'm going to do in next 20 days hopefully.
 
 **Day 2:**
 - [x]  Minimum Subset Sum Difference
+- [x]  count the number of subset sum with a given difference
 - [X]  Last Stone Weight II  

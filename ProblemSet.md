@@ -14,4 +14,12 @@ These are all the 100 DP problem's I'm going to do in next 20 days hopefully.
 **Day 2:**
 - [x]  Minimum Subset Sum Difference
 - [x]  count the number of subset sum with a given difference
-- [X]  Last Stone Weight II  
+- [X]  Last Stone Weight II
+- [X]  Target Sum
+
+**Day 3:**
+### Unbounded Knacpsack
+- [x] Unbounded Knapsack
+- [x] Rod Cutting
+- [x] Coin change problem: Maximum number of ways
+- [ ] Coin change problem: Minimum number of coins

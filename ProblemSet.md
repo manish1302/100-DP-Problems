@@ -22,4 +22,4 @@ These are all the 100 DP problem's I'm going to do in next 20 days hopefully.
 - [x] Unbounded Knapsack
 - [x] Rod Cutting
 - [x] Coin change problem: Maximum number of ways
-- [ ] Coin change problem: Minimum number of coins
+- [x] Coin change problem: Minimum number of coins

@@ -31,4 +31,4 @@ These are all the 100 DP problem's I'm going to do in 30 days hopefully.
 - [x] Printing LCS
 - [x] shortest common supersequence
 - [x] Minimum number of insertions and deletions to conert string a to b
-- [ ] longest Palindromic subsequence
+- [x] longest Palindromic subsequence
